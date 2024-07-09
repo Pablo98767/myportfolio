@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Robô Tik Tok",
+    subtitle: "Robô criador de contas automáticas",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "Este projeto foi desenvolvido para um cliente. O objetivo é poder automatizar a criação massiva de contas no aplicativos mobile Tik Tok",
+    image: "./robô_cria_conta_tik_tok.gif",
     link: "https://reactbootcamp.com",
   },
   {
